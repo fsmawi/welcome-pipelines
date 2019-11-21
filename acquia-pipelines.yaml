@@ -23,4 +23,4 @@ events:
             - 'echo "SEC: [${SEC:0:10}...]"' 
             - echo "nice..:)"
             - echo $PIPELINES_ENCRYPTED_VARIABLES_AVAILABLE
-            - echo 'OK!!'
+            - echo 'OK!'
