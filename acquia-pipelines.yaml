@@ -8,7 +8,7 @@ variables:
   global:
     VAR: 'HELLO!'
     SEC:
-      secure: 2acIU+2/rh2q9QbU0KUM4pVQ9xzPlq6aBg155rL0mC97eOXb66Iu8fX+ILfTL5sAAJ4ChPYh5p7x7ZUAXfzsA6nB06kt33sNCBzeWH8oCnqvBn1Igs2XUHZ5InadvpRAkjHHFI/hMI91ty4gYEd9wg2jLRTZLn8NfRa1x5tHALIYqy+sjuiYjM7ieMxELLGyJLZ4kkvy6zAg0gfvclajhV9YFGjKoaJd98kSHDp6kaq5Pc/h/iAvXUez6EWiab+uyDM7NS0yw1OTs8RpPr1H0FCgWYu8cpfmDONBgkZzzcaV78DB3pUIHOQp0ZrHOZ1S4uroohylv4WMtz0MpedG+28xn5qX8n8nU6bwxfjHDa231QtYTqYfvwhfn99SjQXuSYTYgdQIUN+VNz42n2THE/PNA7NrqMiBV7j14Gy2To7dninmIxb1S75JMJBeIh+4oqJ/lJzNPmbVZ8HaXbEcl5toLrohKIb8681jgGa3i84xNyboLD57f/8bZEmKKJnfYb5mNckwLeynJi35iTJaXTISQCu1oLGuC5UnGdMicGNZtIwdLr7KWP+GpSvL0z9M6lVGmQclQPTs7qGdHR68etRfyh73PnkMe5jOpnl8eu87Wr96qMQudqdhJSvqiTwpg9I0ce4MeyBX5v2m9fQzqLODeOGDGq1yF9lDT9OrkQfyds=wFmMaVo6gbjGjt6lhnwGc4p7CDq5jEiVlYPPLf2JfxnNimrnBsptdat9S8JbEmSn6SBWyEy3RmXbBTXXckZ2f6pea0KRWb3cIq89edCWpQ/JeOmrnXgAeD88aKAA6i+x
+      secure: 2acJ/9jmpmSwgpvOTfzHFCQSoCJHXdAvZg7mmCDVyltxTwKDEwMs3cFez3OlAV0rQTwZK3LZqLHpF2RuLuUjhOv2FKazu44LArTMWHGl0aECC2JgSk0Yrgd00xMEypwPV1qQWIOB3ymvfWeMFn9HE29Ep8qnJb0vGqksL8FvuUxxAChoDogq7CelUX8tvubCnb49m7X8AFOhMKGarq6kIEHb6puJSYoGg5fck+SfvVEgtYSFPnPfXqDa73KR8PIE4lIgdZUvcJZgGsg3MLQHlLOQa/rSkEJhwbN3Ie20mIPAAuC+Z4rO5uQkMgdOqnp8QV0pWUXiYCpgUnOczNlUTlceEDc1HCXBXOp6KDQkHtf73cYXsKhh4B0bdeyffdDfEl8ruevgNlj2TwC7kh9X2Usn5pn6mCSSH02DX3zEOC+/IeH3c0ANCkZyEBrKtoXo5mgq/vjPtTVje3zJwmSiqSVh8UkAyI3UHgKZsxzkK8HE5eSZw1EOmDwBt73idxalhykvAxcRlLxrhsRyuX06oaTjhidXayxNy97Pb4ekXJdw/qpQOPW/Qxs7hRppjoGppcItN0TivBSmg62QZIEHihaTZJA9NPIMMXR95Rua0cpWCkQS2rbqUWlr2bpqeU9wiEmcol+G17B6P2+Fc+0vcBB0icK4ebWOPnucURhDvCdujs=t9a/0Ijo7Z6IGdtZb6xeb1jJVzEEAKmHMakz2L0DeE+4+hG6FU1RVXOG0ObGSizUV7MxaseDSTkEGRFK54AZFuh70zxmqlefGHs8zROeKybGsDe0czV+Fqcl8aMDbmm+S/O6hSl2HKf5ZtTBFSjk3w==
     CLOUD_API_KEY:
       secure: 2acQXt7OOLEUgTlegTLpmM+vq+HwkxqFq0VebvatKllxHejXLAfvRp0meTjE0r9kVi7oxk4MyKQ8+RhcNr2inYFHnS/FZnLJFwbkApK8mCQp+GdDIiZvp7e2mhHm7go9IDQUW10Umc1B1QKSDZ9/lKAUvvvoa2tu0UjtnwRTbzLsisoHi1ZLLiFbMUSyDsvZ/na3p0ypgRjAGbaFY6OCPYar/Bysl+qAwXLAeaQO58cotQEfb0L9QJT9WSmwY5uxneP0JYvpYdMYh72cUNr0uYue03NHMIOymWAO0XI+YI8FUcfhOzKsI4XDJ5wHy5UIX+lg5W2ho9qWQs1tQdeK17BQwj4ANdLpLlHytIe27XH9hLQX0HX6w8bx2G202VGd94wOHd88KaEp3GDS7BvSqbrcTKJEJwAKYgNBm+gUB1aOYmc7uR151JoaiDJpTTHKNoj9/pABOIccA16O0oPm4yU6sAIUn5I643Loqr1KG4X66fMoB4XzIlleZfa6XqEYEAQrgv0Ke3zBVNdg3PQZ/pLr3dphsQiWCGM65k7eED9/ZBcq+PUJRAF17oK0f3J+/mH81Rk5Lqf8wMJGc1eaASOo3ARjkhOffMblNR1RrCSW8vlsDOONGODu9k5BhjB2aMLGglHuaU5INcaEdLYf8DoofQFASw/yAJhLJ2HVzwFP8c=vgFfYyTDb3KBgT1NCzxmR+KKWSr469buLdOIKKwNgdT1ZK/QEgHpug8nLZRWG1RHWJouvZGWM5uwGaytsU6YczbWL/aZ07wfbbBSj8a4bZ6XCU7fEcCZvpLaqsrrTQ/L/jBQ8VJ8gxqCAakOvM0f3w==
     CLOUD_API_SECRET:
@@ -20,7 +20,7 @@ events:
       # If you have build instructions, put them here. They are not required.
       - build_site:
           script:
-            - 'echo "SEC: [${SEC:0:10}...]"' 
+            - 'echo "SEC: [${SEC:0:25}...]"' 
             - echo "nice..:)"
             - echo $PIPELINES_ENCRYPTED_VARIABLES_AVAILABLE
             - echo 'OK!'
